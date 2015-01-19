@@ -1,11 +1,6 @@
 # AndroidCalculator
 Major Android Project (Source code and Screenshots Available)
 
-Android Calculator
-===================
-
-Major Android Program (Source code and screenshot available)
-
 Source Code location
 ----------------------------------
 The source code is found under the folder: app -> src -> main -> java -> com -> ithai -> calculator -> MainActivity.java
