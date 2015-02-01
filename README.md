@@ -5,7 +5,7 @@ Source Code location
 ----------------------------------
 The source code is found under the folder: app -> src -> main -> java -> com -> ithai -> calculator -> MainActivity.java
 
-To view screenshots, open Screenshot 1.png and Screenshot 2.png
+To view screenshots, open Screenshot 1.png, Screenshot 2.png, and Screenshot 3.png
 
 Description
 ------------
